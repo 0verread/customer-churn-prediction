@@ -13,7 +13,7 @@ The main objectives of this project are:
 - Finding the most suited machine learning model for the correct classification of customer churn and non-churn.
 
 ## Dataset
-I used the Customer Churn dataset of the telecommunication industry. This is an IBM sample dataset. The Kaggle link to this dataset is here. 
+I used the Customer Churn dataset of the telecommunication industry. This is an IBM sample dataset. The Kaggle link to this dataset is [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). 
 
 ### Here is some information about our dataset:
 - A total of 21 unique columns.
